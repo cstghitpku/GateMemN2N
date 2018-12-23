@@ -5,7 +5,7 @@ Implementation of [Gated End-to-End Memory Networks](https://arxiv.org/pdf/1610.
 ## Get Started
 
 ```
-git clone git@github.com:cstghitpku/GateMemN2N.git
+git clone https://github.com/cstghitpku/GateMemN2N.git
 
 mkdir ./gmemn2n/data/
 cd ./gmemn2n/data/
